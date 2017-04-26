@@ -17,5 +17,6 @@ printf("%d",&n2);
 if(n3>=n1 && n3>=n2)
 {
 print("%d",&n3);
+}
 getch();
 }
